@@ -2,6 +2,4 @@
 
 Lincolns is a really awesome web builder
 
-Now editing on update-readme branch
-
-Updated locally
+Updates made on master on GitHub before rebase
